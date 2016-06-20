@@ -1,0 +1,8 @@
+Bundle "skwp/vim-colors-solarized"
+Bundle "chrisbra/color_highlight.git"
+Bundle "itchyny/lightline.vim"
+Bundle "jby/tmux.vim.git"
+Bundle "xsunsmile/showmarks.git"
+
+" Required for Gblame in terminal vim
+Bundle "godlygeek/csapprox.git" 
