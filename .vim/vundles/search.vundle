@@ -1,6 +1,18 @@
+" Sneak is a minimalist, plugin that jumps to any location specified by two characters
 Bundle "justinmk/vim-sneak"
+
+" Vim plugin for the_silver_searcher, 'ag', a replacement for the Perl module / CLI script 'ack'
 Bundle "rking/ag.vim"
+
+" shows 'Nth match out of M' at every search (index of match+total # matches)
 Bundle "vim-scripts/IndexedSearch"
+
+" Start a * or # search from a visual block
 Bundle "nelstrom/vim-visual-star-search"
+
+" Global search and replace for VI
 Bundle "skwp/greplace.vim"
+
+" EasyMotion provides a much simpler way to use some motions in vim. 
+" It takes the <number> out of <number>w or <number>f{char} by highlighting all possible choices and allowing you to press one key to jump directly to the target.
 Bundle "Lokaltog/vim-easymotion"

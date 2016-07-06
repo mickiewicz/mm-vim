@@ -1,8 +1,20 @@
+" Solarized Colorscheme for Vim
 Bundle "skwp/vim-colors-solarized"
+
+" Plugin to color colornames and codes
 Bundle "chrisbra/color_highlight.git"
+
+" Light and configurable statusline/tabline for Vim
 Bundle "itchyny/lightline.vim"
+
+" Syntax highlighting for tmux
 Bundle "jby/tmux.vim.git"
+
+" Visually show the location of marks
 Bundle "xsunsmile/showmarks.git"
 
+" Toggle the cursor shape in the terminal for Vim.
+Bundle "jszakmeister/vim-togglecursor"
+
 " Required for Gblame in terminal vim
-Bundle "godlygeek/csapprox.git" 
+Bundle "godlygeek/csapprox.git"

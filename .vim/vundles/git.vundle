@@ -1,3 +1,8 @@
+" gitk for Vim
 Bundle "gregsexton/gitv"
+
+" Git wrapper
 Bundle "tpope/vim-fugitive"
+
+" Included are syntax, indent, and filetype plugin files for git, gitcommit, gitconfig, gitrebase, and gitsendemail
 Bundle "tpope/vim-git"

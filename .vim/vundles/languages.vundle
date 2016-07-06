@@ -1,7 +1,11 @@
+" Collection of language packs for Vim
 Bundle 'sheerun/vim-polyglot'
-Bundle 'garbas/vim-snipmate.git'
-Bundle 'honza/vim-snippets'
+
+" Add-on to Tim Pope's markdown.vim to highlight using Github Flavored Markdown
 Bundle 'jtratner/vim-flavored-markdown.git'
+
+" Syntax checking hacks for vim
 Bundle 'scrooloose/syntastic.git'
-Bundle 'nelstrom/vim-markdown-preview'
+
+" HTML escaping / unescaping
 Bundle 'skwp/vim-html-escape'
