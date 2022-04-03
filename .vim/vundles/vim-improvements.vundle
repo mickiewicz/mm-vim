@@ -1,8 +1,18 @@
+" A vim plugin that simplifies the transition between multiline and single-line code
 Bundle "AndrewRadev/splitjoin.vim"
+
+" Vim plugin, provides insert mode auto-completion for quotes, parens, brackets, etc.
 Bundle "Raimondi/delimitMate"
+
+" It provides keyword completion system by maintaining a cache of keywords in the current buffer
 Bundle "Shougo/neocomplete.git"
+
+" change the contents of the innermost 'surrounding'
 Bundle "briandoll/change-inside-surroundings.vim.git"
+
+" script for text filtering and alignment
 Bundle "godlygeek/tabular"
+
 Bundle "tomtom/tcomment_vim.git"
 Bundle "vim-scripts/camelcasemotion.git"
 Bundle "vim-scripts/matchit.zip.git"
@@ -25,6 +35,12 @@ Bundle "tpope/vim-unimpaired"
 Bundle "vim-scripts/AnsiEsc.vim.git"
 Bundle "vim-scripts/AutoTag.git"
 Bundle "vim-scripts/lastpos.vim"
+
+" Allows one to edit a file with prevledges from an unprivledged session
 Bundle "vim-scripts/sudo.vim"
+
+" Ex command history reverse-i-search
 Bundle "goldfeld/ctrlr.vim"
+
+" Powerful shell implemented by vim
 Bundle "Shougo/vimshell.vim.git"

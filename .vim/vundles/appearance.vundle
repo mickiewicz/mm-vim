@@ -1,5 +1,8 @@
 " Solarized Colorscheme for Vim
-Bundle "skwp/vim-colors-solarized"
+" Bundle "skwp/vim-colors-solarized"
+Bundle "lifepillar/vim-solarized8"
+
+Bundle "icymind/NeoSolarized"
 
 " Plugin to color colornames and codes
 Bundle "chrisbra/color_highlight.git"
